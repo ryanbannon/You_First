@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">YouFirst</string>
+    <string name="action_settings">LogOut</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="app_id">828170890644631</string>
+    <string name="Hello">Hello:</string>
+    <string name="profileImage">image</string>
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="youFirst">youfirst</string>
+    <string name="Chat">Chat</string>
+    <string name="MatchGame">Match Game</string>
+    <string name="Friends">Friends</string>
+    <string name="Id">Hello</string>
+    <string name="DescriptionLbl">Description</string>
+    <string name="rawName">Name</string>
+    <string name="textView">Friends</string>
+</resources>
